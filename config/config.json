@@ -1,0 +1,7 @@
+{
+  "InactiveDaysThreshold": 30,
+  "SearchBase": "OU=Users,DC=example,DC=com",
+  "ReportPath": "reports/InactiveUsers.csv",
+  "LogPath": "logs/audit.log",
+  "Mode": "REPORT_ONLY"
+}

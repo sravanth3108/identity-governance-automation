@@ -1,0 +1,12 @@
+# Logs
+logs/*.log
+
+# Reports (may contain sensitive data)
+reports/*.csv
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# PowerShell
+*.ps1xml
